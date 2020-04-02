@@ -1,0 +1,12 @@
+- name: Targeted Estimation of Heterogeneous Treatment Effect in Observational Survival Analysis
+  url: https://arxiv.org/abs/1910.08877
+  code: https://arxiv.org/abs/1910.08877
+  description: In this study, we describe a framework for the estimation of heterogeneous treatment effect in terms of differences in time-to-event (survival) probabilities. The paper contains an case study on artrial fibrilation patients. 
+  used:
+    - thing: Superlearner 
+    - thing: Bayesian Learning
+    - thing: Survival Analysis 
+    - thing: Causal Inference 
+
+
+
