@@ -39,8 +39,7 @@ keep_files:
 - CNAME
 - ".git"
 - ".gitignore"
-
 plugins_dir:
-  - jekyll-minifier
-  - jekyll-sitemap
+- jekyll-minifier
+- jekyll-sitemap
 theme: jekyll-theme-cayman
