@@ -39,6 +39,4 @@ keep_files:
 - CNAME
 - ".git"
 - ".gitignore"
-
-
 theme: jekyll-theme-cayman
