@@ -1,7 +1,15 @@
-# Site settings
+---
+title: Elliott Zhu | Data Scientist
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Elliott Zhu
-title: Elliott Zhu | Data Scientist 
-description: An inspired data scientist 
+description: An inspired data scientist
 url: https://elliotzhu.github.io
 baseurl: ''
 email: zj.accounts@gmail.com
@@ -9,36 +17,30 @@ cover: L1003463.jpeg
 logo: KRmSO.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
-  - title: email
-    url: mailto:zj.accounts@gmail.com
-  - title: instagram
-    url: https://www.instagram.com/eliotzzz/
-  - title: github
-    url: https://github.com/elliotzhu
-  - title: linkedin
-    url: https://www.linkedin.com/in/elliott-zhu/
-
-
-
-# Build settings
+- title: email
+  url: mailto:zj.accounts@gmail.com
+- title: instagram
+  url: https://www.instagram.com/eliotzzz/
+- title: github
+  url: https://github.com/elliotzhu
+- title: linkedin
+  url: https://www.linkedin.com/in/elliott-zhu/
 markdown: kramdown
-
 exclude:
-  - 'Gemfile'
-  - 'Gemfile.lock'
-  - '*.gemspec'
-  - 'README.md'
-  - 'node_modules'
-  - 'build'
-  - 'gulpfile.js'
-  - 'package.json'
-
+- Gemfile
+- Gemfile.lock
+- "*.gemspec"
+- README.md
+- node_modules
+- build
+- gulpfile.js
+- package.json
 keep_files:
-  - 'CNAME'
-  - '.git'
-  - '.gitignore'
-
+- CNAME
+- ".git"
+- ".gitignore"
 plugins_dir:
+
   - jekyll-minifier
   - jekyll-sitemap
 
