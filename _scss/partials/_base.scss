@@ -182,13 +182,13 @@ strong {
   &:after {
     @include transition;
     position: relative;
-    bottom: 4px;
+    bottom: 2px;
     margin-left: 18px;
     content: '';
     background: url('../img/arrow.png') no-repeat center;
     background-size: 100%;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     display: inline-block;
     vertical-align: middle;
   }
