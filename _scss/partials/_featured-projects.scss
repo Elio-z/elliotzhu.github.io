@@ -25,7 +25,7 @@
       margin-bottom: 0;
     }
     &__pic {
-      max-width: 700px;
+      max-width: 500px;
       overflow: visible;
       margin: 0;
       a {
@@ -44,13 +44,13 @@
         }
       }
       img {
-        width: 100%;
-        max-width:100%;
+        width: 80%;
+        max-width:90%;
         vertical-align: bottom;
       }
     }
     &__caption {
-      width: 125px;
+      width: 200px;
       flex-shrink: 0;
       margin-left: 30px;
       @include tablet {
