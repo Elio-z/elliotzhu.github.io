@@ -18,6 +18,9 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/elliott-zhu/
 
+# jekyll-paginate configuration
+paginate:            4
+
 # Build settings
 markdown: kramdown
 
