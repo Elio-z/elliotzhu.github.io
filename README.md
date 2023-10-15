@@ -1,2 +1,3 @@
-# eliotzhu.github.io
-This is a sample site 
+# [eliotzhu.github.io][1]
+
+[1]:	eliotzhu.github.io
